@@ -1,8 +1,8 @@
 #For A and B
-- Change me!
+- Mario and Ramon were here 
 
 #For A
-- Change me!
+- Ramon edits section A 
 
 #For B
 - Mario was here (E2)
